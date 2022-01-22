@@ -1,6 +1,5 @@
 import _ from "lodash";
 import "./App.css";
-console.log("sdfv");
 
 const App = ({ name }) => {
 	return `

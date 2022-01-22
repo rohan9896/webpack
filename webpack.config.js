@@ -35,7 +35,7 @@ const webpackConfig = {
   plugins: [
     new HtmlWebpackPlugin({
       title: "Vanilla JS app",
-      template: path.resolve(__dirname, "src", "index.html"),
+      template: path.resolve(__dirname, "public", "index.html"),
     }),
   ],
 
